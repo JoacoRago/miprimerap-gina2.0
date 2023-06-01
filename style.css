@@ -117,4 +117,6 @@ p{
     margin-top: 80px; /* Desplazamiento hacia abajo */
     text-align: left; /* Alineación a la izquierda */
   }
-  
+  .greeting {
+    text-align: center;
+  }
